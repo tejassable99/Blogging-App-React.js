@@ -1,0 +1,71 @@
+.login{
+  /* Center-align an element both horizontally and vertically */
+position: absolute;
+top: 50%;
+left: 85%;
+transform: translate(-50%, -50%);
+height: max-content;
+width: 25%;
+
+}
+
+.fullscreen-bg {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-size: cover; /* Ensures the image covers the entire container */
+  background-position: center; /* Centers the image */
+  /* Add any additional styling or customization here */
+}
+
+/* Optional: Apply styles to the content within the container */
+/* App.css */
+
+.fu {
+  position: absolute;
+  top: 10%;
+  right: 85%;
+  transform: translate(50%, 50%);
+  height: max-content;
+  width: 25%;
+}
+
+.fa {
+  position: fixed;
+  width: 100%;
+}
+
+.yellow-page {
+  background-color: yellow;
+  height: 100vh; /* Set the height to cover the entire viewport */
+  margin: 0; /* Remove default margin */
+  padding: 0; /* Remove default padding */
+  /* Add any other styles as needed */
+}
+
+
+.d1 {
+  /* border:2px solid black; */
+  width:80%;
+  height: 800px;
+  margin:50px;
+  text-align: center;
+  
+}
+.pic {
+  height:300px;
+  width:10%;
+}
+
+
+
+
+
+
+
+
+
+
+

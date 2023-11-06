@@ -1,0 +1,19 @@
+
+  .main {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 7%;
+    margin-left: 10%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+  
+  
+  }
+
+  .card-description {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    
+  }
+  
